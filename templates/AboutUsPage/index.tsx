@@ -18,9 +18,9 @@ const AboutUsPage = () => {
             <Main scrollToRef={scrollToRef} />
             <Details scrollToRef={scrollToRef} />
             <Testimonial />
-            <Team />
+            {/* <Team /> */}
             <Values />
-            <Reviews reviews={reviews} />
+            {/* <Reviews reviews={reviews} /> */}
             <JoinCommunity title="Download our whitepaper" />
         </Layout>
     );

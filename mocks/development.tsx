@@ -10,7 +10,7 @@ export const development = [
     {
         title: "Collect Assets",
         content:
-            "Mint & collect unique in-game assets Non-Fungible Tokens with player ID",
+            "Mint & collect unique in-game assets as Non-Fungible Tokens",
         image: "/images/figures/figure-9.png",
         color: "#e2f096",
         delay: 150,
@@ -19,9 +19,9 @@ export const development = [
     {
         title: "Proof of Play",
         content:
-            "Add key user interactions as on-chain events ",
+            "Record key user interactions as immutable on-chain events ",
         image: "/images/figures/figure-13.png",
-        color: "#b8ef9e",
+        color: "#7b80bb",
         delay: 300,
         url: "/technology",
     },
@@ -56,7 +56,7 @@ export const development = [
 
 export const developmentTechnology = [
     {
-        title: "Globally-accesible, transformational API",
+        title: "Player ID",
         content:
             "Your data can be transformed, organized, and shared across applications for anyone to query with just a few keystrokes.",
         image: "/images/development-pic-3.png",

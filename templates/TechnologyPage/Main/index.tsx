@@ -21,11 +21,10 @@ const Main = ({ scrollToRef }: MainProps) => (
             <div className={styles.wrap}>
                 <div className={styles.stage}>technology</div>
                 <div className={cn("h1", styles.title)}>
-                    Built by developers, for developers.
+                    Infrastructure Built for Games
                 </div>
                 <div className={styles.info}>
-                Tesseract delivers tamper-proof inputs, outputs, and computations
-                    to support advanced smart contracts on any blockchain
+                The protocol is built with modularity in mind, allowing new features to be added while ensuring immutable user-owned experiences and interactions.
                 </div>
             </div>
             <div className={styles.images}>

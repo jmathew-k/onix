@@ -8,7 +8,7 @@ export const details = [
         },
         content: (
             <>
-                <h2>New Decentralized Infrastructure</h2>
+                <h2>Web3 Game Infrastructure</h2>
                 <p>
                 With Tesseract Protocol, players can own their digital identity, contributions and asstes across game ecosystems
                 </p>
@@ -29,7 +29,7 @@ export const details = [
         },
         content: (
             <>
-                <h2>Why build on Tesseract.</h2>
+                <h2>Why build on Tesseract?</h2>
                 <p>
                 Tesseract is committed to fostering the growth of Web3
                     applications by providing the infrastructure and security

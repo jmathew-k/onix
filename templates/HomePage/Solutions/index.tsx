@@ -22,7 +22,7 @@ const Solutions = ({}: SolutionsProps) => {
                         Scaling solutions, amplified.
                     </div>
                     <div className={styles.info}>
-                        Tesseract&apos;s complete suite of blockchain-scaling
+                        Tesseract&apos;s complete suite of game-scaling
                         solutions.
                     </div>
                 </div>

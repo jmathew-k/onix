@@ -2,55 +2,55 @@ export const solutions = [
     {
         title: "Tesseract Fraktal",
         content:
-            "EVM-compatible block sidechain, secured by a permissionless set of PoS validators.",
+            "Command Center for Web3 Developers",
         icon: "/images/icon-1.svg",
         status: "ONLINE",
-        color: "#89EB5B",
+        color: "#987d8e",
     },
-    {
-        title: "Tesseract Satchel",
-        content:
-            "Create exchanges and marketplaces that allow anyone around the world to invest.",
-        icon: "/images/icon-2.svg",
-        status: "ONLINE",
-        color: "#89EB5B",
-        delay: 200,
-    },
+    // {
+    //     title: "Tesseract Satchel",
+    //     content:
+    //         "Create exchanges and marketplaces that allow anyone around the world to invest.",
+    //     icon: "/images/icon-2.svg",
+    //     status: "ONLINE",
+    //     color: "#89EB5B",
+    //     delay: 200,
+    // },
     {
         title: "Tesseract Shard",
         content:
-            "Bring value to gamers by letting them take their loot to another game or into the real world.",
+            "Integrated API Gateway for low latency requests",
         icon: "/images/icon-3.svg",
         status: "ONLINE",
-        color: "#89EB5B",
+        color: "#847695",
         delay: 400,
     },
     {
         title: "Tesseract Lancer",
         content:
-            "Cryptographic proofs to connect highly accurate and available data/APIs to any smart contract.",
+            "Marketplace SDK for on-chain assets",
         icon: "/images/icon-4.svg",
         status: "DEVELOPMENT",
-        color: "#EBB15B",
+        color: "#a4a480",
     },
-    {
-        title: "Tesseract Echo",
-        content:
-            "Empower your community to organize and allocate resources to its members. ",
-        icon: "/images/icon-5.svg",
-        status: "DEVELOPMENT",
-        color: "#EBB15B",
-        delay: 200,
-    },
-    {
-        title: "Tesseract Epoc",
-        content:
-            "Protect dApps from insolvency by auditing the reserves of tokens used as collateral.",
-        icon: "/images/icon-6.svg",
-        status: "VOTING",
-        color: "#6F5BEB",
-        delay: 400,
-    },
+    // {
+    //     title: "Tesseract Echo",
+    //     content:
+    //         "Empower your community to organize and allocate resources to its members. ",
+    //     icon: "/images/icon-5.svg",
+    //     status: "DEVELOPMENT",
+    //     color: "#EBB15B",
+    //     delay: 200,
+    // },
+    // {
+    //     title: "Tesseract Epoc",
+    //     content:
+    //         "Protect dApps from insolvency by auditing the reserves of tokens used as collateral.",
+    //     icon: "/images/icon-6.svg",
+    //     status: "VOTING",
+    //     color: "#6F5BEB",
+    //     delay: 400,
+    // },
 ];
 
 export const images = [

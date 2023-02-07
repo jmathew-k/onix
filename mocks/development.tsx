@@ -4,15 +4,15 @@ export const development = [
         content:
             "Users can create unique, decentralized player ID's that work across games",
         image: "/images/figures/figure-5.png",
-        color: "#6F5BEB",
+        color: "#e9809f",
         url: "/technology",
     },
     {
         title: "Collect Assets",
         content:
             "Mint & collect unique in-game assets Non-Fungible Tokens with player ID",
-        image: "/images/figures/figure-8.png",
-        color: "#EBB15B",
+        image: "/images/figures/figure-9.png",
+        color: "#e2f096",
         delay: 150,
         url: "/technology",
     },
@@ -21,7 +21,7 @@ export const development = [
         content:
             "Add key user interactions as on-chain events ",
         image: "/images/figures/figure-13.png",
-        color: "#89EB5B",
+        color: "#b8ef9e",
         delay: 300,
         url: "/technology",
     },
@@ -30,7 +30,7 @@ export const development = [
         content:
             "Enable decentalized guilds with staked token holder governance",
         image: "/images/development-pic-1.png",
-        color: "#c45b8f",
+        color: "#99e8e5",
         delay: 450,
         url: "/technology",
     },
@@ -38,8 +38,8 @@ export const development = [
         title: "Game-Fi",
         content:
             "Incorporate DeFi mechanics for assets earned through player skill & collaboration",
-        image: "/images/development-pic-2.png",
-        color: "#69bed6",
+        image: "/images/development-pic-3.png",
+        color: "#f0bc8b",
         delay: 600,
         url: "/technology",
     },

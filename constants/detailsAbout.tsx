@@ -8,10 +8,9 @@ export const details = [
         },
         content: (
             <>
-                <h2>Built by developers, for developers.</h2>
+                <h2>New Decentralized Infrastructure</h2>
                 <p>
-                Tesseract delivers tamper-proof inputs, outputs, and computations
-                    to support advanced smart contracts on any blockchain.
+                With Tesseract Protocol, players can own their digital identity, contributions and asstes across game ecosystems
                 </p>
                 <ul>
                     <li>Fully benefit from scalable network effects</li>
@@ -30,7 +29,7 @@ export const details = [
         },
         content: (
             <>
-                <h2>Top blockchains build on Tesseract.</h2>
+                <h2>Why build on Tesseract.</h2>
                 <p>
                 Tesseract is committed to fostering the growth of Web3
                     applications by providing the infrastructure and security

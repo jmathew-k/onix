@@ -14,8 +14,8 @@ export const details = [
 					contributions and assets across game ecosystems
 				</p>
 				<ul>
-					<li>Fully benefit from scalable network effects</li>
-					<li>Inherently more secure than all competitors</li>
+					<li>Benefit from scalable cross-game network effects</li>
+					<li>Inherently more secure than all centralized competitors</li>
 					<li>Open-source and powerful with 0.001% downtime</li>
 				</ul>
 			</>

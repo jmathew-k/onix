@@ -42,7 +42,7 @@ const Footer = ({}: FooterProps) => (
             </div>
             <div className={styles.row}>
                 <div className={styles.copyright}>
-                    © 2022 Onix Systems. All rights reserved.
+                    © 2022 Tesseract XYZ. All rights reserved.
                 </div>
                 <div className={styles.documents}>
                     {documents.map((document, index) => (

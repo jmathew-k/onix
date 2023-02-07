@@ -4,12 +4,12 @@ export const details = [
             <>
                 <h2>Scaling solutions, amplified.</h2>
                 <p>
-                    Onix is committed to fostering the growth of Web3
+                Tesseract is committed to fostering the growth of Web3
                     applications by providing the infrastructure and security
                     needed for Web3.
                 </p>
                 <p>
-                    Onix believes in Web3 for all. Onix is a decentralised
+                Tesseract believes in Web3 for all. Tesseract is a decentralised
                     blockchain scaling platform that enables developers.
                 </p>
             </>

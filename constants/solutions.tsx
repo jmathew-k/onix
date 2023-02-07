@@ -1,6 +1,6 @@
 export const solutions = [
     {
-        title: "Onix Fraktal",
+        title: "Tesseract Fraktal",
         content:
             "EVM-compatible block sidechain, secured by a permissionless set of PoS validators.",
         icon: "/images/icon-1.svg",
@@ -8,7 +8,7 @@ export const solutions = [
         color: "#89EB5B",
     },
     {
-        title: "Onix Satchel",
+        title: "Tesseract Satchel",
         content:
             "Create exchanges and marketplaces that allow anyone around the world to invest.",
         icon: "/images/icon-2.svg",
@@ -17,7 +17,7 @@ export const solutions = [
         delay: 200,
     },
     {
-        title: "Onix Shard",
+        title: "Tesseract Shard",
         content:
             "Bring value to gamers by letting them take their loot to another game or into the real world.",
         icon: "/images/icon-3.svg",
@@ -26,7 +26,7 @@ export const solutions = [
         delay: 400,
     },
     {
-        title: "Onix Lancer",
+        title: "Tesseract Lancer",
         content:
             "Cryptographic proofs to connect highly accurate and available data/APIs to any smart contract.",
         icon: "/images/icon-4.svg",
@@ -34,7 +34,7 @@ export const solutions = [
         color: "#EBB15B",
     },
     {
-        title: "Onix Echo",
+        title: "Tesseract Echo",
         content:
             "Empower your community to organize and allocate resources to its members. ",
         icon: "/images/icon-5.svg",
@@ -43,7 +43,7 @@ export const solutions = [
         delay: 200,
     },
     {
-        title: "Onix Epoc",
+        title: "Tesseract Epoc",
         content:
             "Protect dApps from insolvency by auditing the reserves of tokens used as collateral.",
         icon: "/images/icon-6.svg",

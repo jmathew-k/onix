@@ -140,7 +140,7 @@ const Menu = ({ navigation, socials, onClick }: MenuProps) => {
                                               target="_blank"
                                               rel="noreferrer"
                                           >
-                                              support@ui8.net
+                                              support@tesseractxyz.com
                                           </a>
                                       </div>
                                   </div>

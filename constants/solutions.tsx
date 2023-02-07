@@ -5,7 +5,7 @@ export const solutions = [
             "Command Center for Web3 Developers",
         icon: "/images/icon-1.svg",
         status: "ONLINE",
-        color: "#987d8e",
+        color: "#7e82b6",
     },
     // {
     //     title: "Tesseract Satchel",
@@ -22,7 +22,7 @@ export const solutions = [
             "Integrated API Gateway for low latency requests",
         icon: "/images/icon-3.svg",
         status: "ONLINE",
-        color: "#847695",
+        color: "#7e82b6",
         delay: 400,
     },
     {
@@ -31,7 +31,7 @@ export const solutions = [
             "Marketplace SDK for on-chain assets",
         icon: "/images/icon-4.svg",
         status: "DEVELOPMENT",
-        color: "#a4a480",
+        color: "#baba78",
     },
     // {
     //     title: "Tesseract Echo",

@@ -5,19 +5,19 @@ export const statistics = [
     },
     {
         title: "Unique Player IDs",
-        value: "65",
+        value: "35",
     },
     {
         title: "Assets minted",
-        value: "305",
+        value: "79",
     },
     {
         title: "API Calls",
-        value: "8k",
+        value: "2.5k",
     },
     {
         title: "Chains",
-        value: "3",
+        value: "2",
     },
     {
         title: "Trade Volume",

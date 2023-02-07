@@ -1,8 +1,8 @@
 export const blog = [
     {
-        title: "Globally-accesible, transformational API",
+        title: "Player Identity",
         content:
-            "Your data can be transformed, organized, and shared across applications for anyone to query with just Your data can be transformed, organized, and shared across applications for anyone to query with just",
+            "Allow users to create ecosystem independent non-fungible player tags",
         image: "/images/blog/photo-1.png",
         color: "#6F5BEB",
         url: "/blog/article",

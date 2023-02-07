@@ -6,11 +6,11 @@ import Scroll from "@/components/Scroll";
 
 const images = [
     "/images/figures/figure-1.png",
+    "/images/figures/figure-7.png",
+    "/images/figures/crystal-1.png",
+    "/images/figures/figure-8.png",
+    "/images/figures/figure-11.png",
     "/images/figures/figure-2.png",
-    "/images/figures/figure-3.png",
-    "/images/figures/figure-4.png",
-    "/images/figures/figure-5.png",
-    "/images/figures/figure-6.png",
 ];
 
 type MainProps = {
@@ -23,11 +23,10 @@ const Main = ({ scrollToRef }: MainProps) => (
             <div className={styles.head}>
                 <div className={styles.stage}>INTRODUCING TESSERACT</div>
                 <div className={cn("h1", styles.title)}>
-                    Community-owned API&nbsp;of blockchains.
+                    Decentralized Infrastructure for Games
                 </div>
                 <div className={styles.info}>
-                Tesseract delivers tamper-proof inputs, outputs, and computations
-                    to support advanced smart contracts on any blockchain
+                Tesseract Protocol is a player-owned, open web3 infrastructure that any game can plug into
                 </div>
             </div>
             <div className={styles.images}>

@@ -22,13 +22,13 @@ const HomePage = () => {
             <AboutUs />
             <Statistics />
             <Solutions />
-            <Posts
+            {/* <Posts
                 className="section"
                 title="Your gateway to everything Tesseract."
                 info="Stay current on the latest Tesseract project developments, news, and content, updated daily."
                 posts={posts}
-            />
-            <Reviews reviews={reviews} />
+            /> */}
+            {/* <Reviews reviews={reviews} /> */}
             <JoinCommunity title="Want to get involved?" />
         </Layout>
     );

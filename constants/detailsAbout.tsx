@@ -10,7 +10,7 @@ export const details = [
             <>
                 <h2>Web3 Game Infrastructure</h2>
                 <p>
-                With Tesseract Protocol, players can own their digital identity, contributions and asstes across game ecosystems
+                With Tesseract Protocol, players can own their digital identity, contributions and assets across game ecosystems
                 </p>
                 <ul>
                     <li>Fully benefit from scalable network effects</li>
